@@ -1,0 +1,7 @@
+license_accept = "non"
+policy_group = "prod"
+policy_name = "base"
+chef_server_url = "https://chef.example.com/organizations/org_name"
+chef_user_name = "admin"
+chef_user_key = "~/chef-repo/.chef/admin.pem"
+chef_client_version = "15.8.23"
